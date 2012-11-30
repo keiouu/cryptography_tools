@@ -1,0 +1,22 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Binary
+run
+
+# All txt files in in/out
+in/*.txt
+out/*.txt
+
+txttess
+*.pyc
